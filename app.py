@@ -15,7 +15,7 @@ def get_gemini_client():
 
 
 gemini_client = get_gemini_client()
-Model_Name = "gemini-3.6-flash"
+Model_Name = "gemini-3.7-flash"
 submitted=""
 
 def render_message(messages):
